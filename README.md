@@ -1,2 +1,3 @@
 # SCPSLUtil
-SCP: Secret Laboratory Problem Solving
+
+SCP:SL Problem Solving Utility (WIP)
